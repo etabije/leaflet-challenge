@@ -18,7 +18,7 @@ Data Points
 
 Resources
 * Professor Melissa Ingle 
-* Cassidy Cruz
+* Cassidy Cruz (classmate)
 * ChatGPT 
 * Xpert Learning Assistant
 
